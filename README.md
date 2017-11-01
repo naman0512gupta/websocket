@@ -2,7 +2,7 @@
 - A standalone client-server application which can be used with any language
 - Notifications added whenever any new message is received. (Do enable notifications on your page settings)
 
-to start server run -- python serverhandler.py
+to start server run -- python serverhandler.py (or 'python serverhandler.py &'  to run it as a background process)
 
 Now run -- python clientHandler.py "testpass"
 
